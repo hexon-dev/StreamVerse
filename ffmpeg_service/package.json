@@ -1,0 +1,14 @@
+{
+  "name": "streamverse-ffmpeg-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "cloudinary": "^2.7.0",
+    "express": "^4.22.2",
+    "p-limit": "^7.2.0",
+    "uuid": "^10.0.0"
+  }
+}
